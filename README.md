@@ -5,4 +5,4 @@ Sorting Pizza Party is a fun sorting game where players organize pizza into the 
 - Colorful graphics
 - Fun pizza theme
 ## System Flow Diagram
-![Game Flowchart](docs/SFDforSortingPizzaParty.png)
+![Game Flowchart](docs/SFDforSortingPizzaParty.jpeg)
